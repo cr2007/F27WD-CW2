@@ -15,8 +15,8 @@ Our assignment was split into 3 tasks:
 
 Team Members:
 
-- Aryan Bardhan
+- [Aryan Bardhan](https://github.com/aryB003)
 - [Chandrashekhar R](https://github.com/cr2007)
 - [Nemr Aslam](https://github.com/Nimmbo02)
-- [Noureldine Adib](https://github.com/X688506)
-- Rohan Samuel
+- [Noureldine Adib](https://github.com/NourAdib)
+- [Rohan Samuel](https://github.com/Reptron)
